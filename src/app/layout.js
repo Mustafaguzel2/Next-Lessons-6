@@ -1,16 +1,12 @@
-import localFont from "next/font/local";
 import "./globals.css";
+import { Suspense } from "react";
+import CommonLayout from "@/components/common-layout";
+import Loading from "./loading";
+import { ClerkProvider } from "@clerk/nextjs";
+import { SignedOut } from "@clerk/nextjs";
+import { redirect } from "next/dist/server/api-utils";
 
-const geistSans = localFont({
-  src: "./fonts/GeistVF.woff",
-  variable: "--font-geist-sans",
-  weight: "100 900",
-});
-const geistMono = localFont({
-  src: "./fonts/GeistMonoVF.woff",
-  variable: "--font-geist-mono",
-  weight: "100 900",
-});
+
 
 export const metadata = {
   title: "Create Next App",
@@ -19,12 +15,18 @@ export const metadata = {
 
 export default function RootLayout({ children }) {
   return (
-    <html lang="en">
-      <body
-        className={`${geistSans.variable} ${geistMono.variable} antialiased`}
-      >
-        {children}
-      </body>
-    </html>
+
+      <html lang="en">
+        <body>
+        <ClerkProvider afterSignOutUrl="/">
+          <SignedOut onSignedOut={() =>  redirect('/')}>  
+          </SignedOut>
+          <Suspense fallback={<Loading />}>
+            <CommonLayout children={children} />
+          </Suspense>
+          </ClerkProvider>
+        </body>
+      </html>
+    
   );
 }
