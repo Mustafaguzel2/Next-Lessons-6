@@ -1,0 +1,84 @@
+{
+  "node": {
+    "40fcaf2ca58b29b0d3b2c8e2a8bf041911627823ea": {
+      "workers": {
+        "app/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fmustafayigitguzel%2FDesktop%2Fnext.js%2Fseventh-next-lesson%2Fsrc%2Factions%2Findex.js%22%2C%5B%5B%2240fcaf2ca58b29b0d3b2c8e2a8bf041911627823ea%22%2C%22fetchProfile%22%5D%2C%5B%2260b1aebf5a86b09eb7172450b1406526c6459aecca%22%2C%22createProfile%22%5D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        },
+        "app/onboard/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fmustafayigitguzel%2FDesktop%2Fnext.js%2Fseventh-next-lesson%2Fsrc%2Factions%2Findex.js%22%2C%5B%5B%2240fcaf2ca58b29b0d3b2c8e2a8bf041911627823ea%22%2C%22fetchProfile%22%5D%2C%5B%2260b1aebf5a86b09eb7172450b1406526c6459aecca%22%2C%22createProfile%22%5D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        },
+        "app/sign-in/[[...sign-in]]/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fmustafayigitguzel%2FDesktop%2Fnext.js%2Fseventh-next-lesson%2Fsrc%2Factions%2Findex.js%22%2C%5B%5B%2240fcaf2ca58b29b0d3b2c8e2a8bf041911627823ea%22%2C%22fetchProfile%22%5D%2C%5B%2260b1aebf5a86b09eb7172450b1406526c6459aecca%22%2C%22createProfile%22%5D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        },
+        "app/sign-up/[[...sign-up]]/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fmustafayigitguzel%2FDesktop%2Fnext.js%2Fseventh-next-lesson%2Fsrc%2Factions%2Findex.js%22%2C%5B%5B%2240fcaf2ca58b29b0d3b2c8e2a8bf041911627823ea%22%2C%22fetchProfile%22%5D%2C%5B%2260b1aebf5a86b09eb7172450b1406526c6459aecca%22%2C%22createProfile%22%5D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/page": "rsc",
+        "app/onboard/page": "rsc",
+        "app/sign-in/[[...sign-in]]/page": "rsc",
+        "app/sign-up/[[...sign-up]]/page": "rsc"
+      }
+    },
+    "60b1aebf5a86b09eb7172450b1406526c6459aecca": {
+      "workers": {
+        "app/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fmustafayigitguzel%2FDesktop%2Fnext.js%2Fseventh-next-lesson%2Fsrc%2Factions%2Findex.js%22%2C%5B%5B%2240fcaf2ca58b29b0d3b2c8e2a8bf041911627823ea%22%2C%22fetchProfile%22%5D%2C%5B%2260b1aebf5a86b09eb7172450b1406526c6459aecca%22%2C%22createProfile%22%5D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        },
+        "app/onboard/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fmustafayigitguzel%2FDesktop%2Fnext.js%2Fseventh-next-lesson%2Fsrc%2Factions%2Findex.js%22%2C%5B%5B%2240fcaf2ca58b29b0d3b2c8e2a8bf041911627823ea%22%2C%22fetchProfile%22%5D%2C%5B%2260b1aebf5a86b09eb7172450b1406526c6459aecca%22%2C%22createProfile%22%5D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        },
+        "app/sign-in/[[...sign-in]]/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fmustafayigitguzel%2FDesktop%2Fnext.js%2Fseventh-next-lesson%2Fsrc%2Factions%2Findex.js%22%2C%5B%5B%2240fcaf2ca58b29b0d3b2c8e2a8bf041911627823ea%22%2C%22fetchProfile%22%5D%2C%5B%2260b1aebf5a86b09eb7172450b1406526c6459aecca%22%2C%22createProfile%22%5D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        },
+        "app/sign-up/[[...sign-up]]/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fmustafayigitguzel%2FDesktop%2Fnext.js%2Fseventh-next-lesson%2Fsrc%2Factions%2Findex.js%22%2C%5B%5B%2240fcaf2ca58b29b0d3b2c8e2a8bf041911627823ea%22%2C%22fetchProfile%22%5D%2C%5B%2260b1aebf5a86b09eb7172450b1406526c6459aecca%22%2C%22createProfile%22%5D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/page": "rsc",
+        "app/onboard/page": "rsc",
+        "app/sign-in/[[...sign-in]]/page": "rsc",
+        "app/sign-up/[[...sign-up]]/page": "rsc"
+      }
+    },
+    "7f70d0983ccc110c5dd6f7c4b3c2c982126029cd91": {
+      "workers": {
+        "app/page": {
+          "moduleId": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fmustafayigitguzel%2FDesktop%2Fnext.js%2Fseventh-next-lesson%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fserver-actions.js%22%2C%5B%5B%227f70d0983ccc110c5dd6f7c4b3c2c982126029cd91%22%2C%22invalidateCacheAction%22%5D%5D%5D%5D&__client_imported__=true!",
+          "async": false
+        },
+        "app/onboard/page": {
+          "moduleId": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fmustafayigitguzel%2FDesktop%2Fnext.js%2Fseventh-next-lesson%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fserver-actions.js%22%2C%5B%5B%227f70d0983ccc110c5dd6f7c4b3c2c982126029cd91%22%2C%22invalidateCacheAction%22%5D%5D%5D%5D&__client_imported__=true!",
+          "async": false
+        },
+        "app/sign-in/[[...sign-in]]/page": {
+          "moduleId": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fmustafayigitguzel%2FDesktop%2Fnext.js%2Fseventh-next-lesson%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fserver-actions.js%22%2C%5B%5B%227f70d0983ccc110c5dd6f7c4b3c2c982126029cd91%22%2C%22invalidateCacheAction%22%5D%5D%5D%5D&__client_imported__=true!",
+          "async": false
+        },
+        "app/sign-up/[[...sign-up]]/page": {
+          "moduleId": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fmustafayigitguzel%2FDesktop%2Fnext.js%2Fseventh-next-lesson%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fserver-actions.js%22%2C%5B%5B%227f70d0983ccc110c5dd6f7c4b3c2c982126029cd91%22%2C%22invalidateCacheAction%22%5D%5D%5D%5D&__client_imported__=true!",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/page": "action-browser",
+        "app/onboard/page": "action-browser",
+        "app/sign-in/[[...sign-in]]/page": "action-browser",
+        "app/sign-up/[[...sign-up]]/page": "action-browser"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "tJBc9wAYfoDBXp4Olxf4I1mjCnPxjHNr91dkjvVeGEE="
+}
